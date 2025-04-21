@@ -20,7 +20,7 @@ Rewards of 10 Episodes: 1087.6 ± 565.7766697204826
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
-#Python
-#gymnasium
-#stable_baselines3
+-Python
+-gymnasium
+-stable_baselines3
 
